@@ -1,0 +1,7 @@
+// ... existing code ...
+// Create a .gitignore file
+// Add the following lines to the .gitignore file
+node_modules/
+.env
+.DS_Store
+// ... existing code ...
