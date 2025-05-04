@@ -2,6 +2,7 @@
 // Create a .gitignore file
 // Add the following lines to the .gitignore file
 node_modules/
+src/config/firebase.config.js
 .env
 .DS_Store
 // ... existing code ...
